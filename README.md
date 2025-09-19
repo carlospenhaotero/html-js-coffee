@@ -1,3 +1,4 @@
+=======
 # ☕ FundMe DApp (JavaScript + Viem)
 
 This project is a **simple decentralized app (DApp)** that allows you to:
@@ -15,8 +16,8 @@ The project uses **Anvil (Foundry)** as the local blockchain and **Vite** as the
 
 ### 1. Clone the repository
 ```bash
-git clone <REPO_URL>
-cd html-js-coffee-cu
+git clone https://github.com/carlospenhaotero/html-js-coffee.git
+cd html-js-coffee
 ```
 
 ### 2. Install dependencies
