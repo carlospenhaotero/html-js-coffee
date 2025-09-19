@@ -1,0 +1,12 @@
+# dependencias
+node_modules/
+.pnpm/
+.vite/
+dist/
+
+# experiments de TS
+experiments-ts/
+
+# sistema
+.DS_Store
+*.log
